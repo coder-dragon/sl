@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{86902823-ca22-f44d-34a2-dfa0455c7601}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCharts.Runtime", "XCharts.Runtime.csproj", "{61d51a78-175b-c693-c7cb-a89193cc68e6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCharts.Examples.Runtime", "XCharts.Examples.Runtime.csproj", "{57aa499a-df0d-67b4-6ef4-fe92a31ff5e3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCharts.Editor", "XCharts.Editor.csproj", "{e9d48c86-b6fe-a71a-3445-e89d937d2448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,6 +16,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{86902823-ca22-f44d-34a2-dfa0455c7601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{86902823-ca22-f44d-34a2-dfa0455c7601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61d51a78-175b-c693-c7cb-a89193cc68e6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61d51a78-175b-c693-c7cb-a89193cc68e6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57aa499a-df0d-67b4-6ef4-fe92a31ff5e3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57aa499a-df0d-67b4-6ef4-fe92a31ff5e3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e9d48c86-b6fe-a71a-3445-e89d937d2448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e9d48c86-b6fe-a71a-3445-e89d937d2448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

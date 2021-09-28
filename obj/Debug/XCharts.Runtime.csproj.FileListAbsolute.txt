@@ -1,0 +1,2 @@
+D:\project\sl\obj\Debug\XCharts.Runtime.csproj.AssemblyReference.cache
+D:\project\sl\obj\Debug\XCharts.Runtime.csproj.CoreCompileInputs.cache
